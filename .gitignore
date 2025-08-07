@@ -1,0 +1,12 @@
+# Python önbellek
+__pycache__/
+*.py[cod]
+
+# Environment dosyası
+.env
+
+# VSCode ayarları
+.vscode/
+
+# Log dosyaları
+*.log
